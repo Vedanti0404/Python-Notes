@@ -1,0 +1,13 @@
+what is the difference between python2 and python3
+
+there are quite libraries that have stoped working in the python2 version.
+
+| Aspect              | Python 2                                    | Python 3                                    |
+|---------------------|---------------------------------------------|---------------------------------------------|
+| Print Statement     | Uses the syntax `print "Hello, World!"`     | Uses the syntax `print("Hello, World!")`     |
+| Division            | Uses integer division by default (5/2 = 2)  | Uses true division by default (`5/2` = `2.5`)|
+| Unicode Support     | Limited Unicode support                     | Full Unicode support                        |
+| Syntax              | Uses `raw_input()` for user input           | Uses `input()` for user input                |
+| Iteration           | Uses `xrange()` for efficient looping       | Uses `range()` for looping                   |
+| Exception Handling  | Uses `except Exception, e` syntax           | Uses `except Exception as e` syntax          |
+| Libraries           | Some libraries are not Python 3 compatible  | Libraries are generally Python 3 compatible  |

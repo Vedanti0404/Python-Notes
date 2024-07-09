@@ -1,0 +1,21 @@
+python when downloading is not just a language that is written by itself, but by many other programming language frameworks.
+
+example:
+
+python from the official website will download the cpython-> the language which is written in c language.
+
+jython-> which is the python written in java programming language.
+
+iron python -> programming language written using .NET.
+
+pypy-> which is the programming language written using python only.
+
+----------------------
+
+flow of code-> source code-> interpreter-> byte code-> c v m -> output
+
+---------------------
+
+interpreter-> program that is able to find the error and conver the human language to machine understandable code. line by line. returns the error as soon as it encounters an error. opposite to compiler which compiles complete code and then gives all errors once an for all.
+
+----------------------
